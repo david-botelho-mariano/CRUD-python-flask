@@ -1,5 +1,5 @@
-# Wifi reconectar automaticamente python
+# CRUD de sistema em python utilizando a biblioteca Flask
 
-Essa aplicação serve para inserir a conta do aluno no portal de login da wifi,primeiramente conectando-se ao site da universidade UNITINS, e em seguida mantem o acesso ao emiter requisições de login periodicamente.
+Esse software possui as funções de adicionar,remover,visualizar e editar dados armazenados em um banco de dados mysql,tem como interface o bootstrap e o flask como servidor.
 
-![executando-programa-imagem](https://i.imgur.com/4WwbRjJ.png)
+![executando-programa-imagem](https://i.imgur.com/XG1xBJn.png)
