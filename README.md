@@ -1,4 +1,4 @@
-# CRUD de sistema em python utilizando a biblioteca Flask
+# CRUD - sistema em python utilizando a biblioteca Flask
 
 Esse software possui as funções de adicionar,remover,visualizar e editar dados armazenados em um banco de dados mysql,tem como interface o bootstrap e o flask como servidor.
 
